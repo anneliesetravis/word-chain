@@ -1,0 +1,8 @@
+giraffe
+elephant
+ant 
+tiger
+racoon
+cat
+hedgehog
+mouse
